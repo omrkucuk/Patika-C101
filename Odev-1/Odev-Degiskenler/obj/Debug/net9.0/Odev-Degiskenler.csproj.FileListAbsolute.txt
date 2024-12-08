@@ -1,0 +1,14 @@
+C:\Users\husey\OneDrive\Masaüstü\Github\Patika-C101\Odev-1\Odev-Degiskenler\bin\Debug\net9.0\Odev-Degiskenler.exe
+C:\Users\husey\OneDrive\Masaüstü\Github\Patika-C101\Odev-1\Odev-Degiskenler\bin\Debug\net9.0\Odev-Degiskenler.deps.json
+C:\Users\husey\OneDrive\Masaüstü\Github\Patika-C101\Odev-1\Odev-Degiskenler\bin\Debug\net9.0\Odev-Degiskenler.runtimeconfig.json
+C:\Users\husey\OneDrive\Masaüstü\Github\Patika-C101\Odev-1\Odev-Degiskenler\bin\Debug\net9.0\Odev-Degiskenler.dll
+C:\Users\husey\OneDrive\Masaüstü\Github\Patika-C101\Odev-1\Odev-Degiskenler\bin\Debug\net9.0\Odev-Degiskenler.pdb
+C:\Users\husey\OneDrive\Masaüstü\Github\Patika-C101\Odev-1\Odev-Degiskenler\obj\Debug\net9.0\Odev-Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\OneDrive\Masaüstü\Github\Patika-C101\Odev-1\Odev-Degiskenler\obj\Debug\net9.0\Odev-Degiskenler.AssemblyInfoInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\Github\Patika-C101\Odev-1\Odev-Degiskenler\obj\Debug\net9.0\Odev-Degiskenler.AssemblyInfo.cs
+C:\Users\husey\OneDrive\Masaüstü\Github\Patika-C101\Odev-1\Odev-Degiskenler\obj\Debug\net9.0\Odev-Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\Github\Patika-C101\Odev-1\Odev-Degiskenler\obj\Debug\net9.0\Odev-Degiskenler.dll
+C:\Users\husey\OneDrive\Masaüstü\Github\Patika-C101\Odev-1\Odev-Degiskenler\obj\Debug\net9.0\refint\Odev-Degiskenler.dll
+C:\Users\husey\OneDrive\Masaüstü\Github\Patika-C101\Odev-1\Odev-Degiskenler\obj\Debug\net9.0\Odev-Degiskenler.pdb
+C:\Users\husey\OneDrive\Masaüstü\Github\Patika-C101\Odev-1\Odev-Degiskenler\obj\Debug\net9.0\Odev-Degiskenler.genruntimeconfig.cache
+C:\Users\husey\OneDrive\Masaüstü\Github\Patika-C101\Odev-1\Odev-Degiskenler\obj\Debug\net9.0\ref\Odev-Degiskenler.dll
